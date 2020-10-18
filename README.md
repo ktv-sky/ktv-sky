@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile!
 
-My name is Aleksey and I want to become a cool web-developer :)
+My name is Aleksey, I'm learning Python/Django and want to become a cool web-developer :)
 
 Feel free to get in touch with me via [email](mailto:helicooper7@gmail.com)
 
