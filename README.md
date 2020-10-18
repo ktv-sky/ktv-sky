@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile!
+## Welcome to my GitHub profile!
 
 My name is Aleksey and I want to become a cool web-developer :)
 
